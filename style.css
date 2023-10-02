@@ -45,7 +45,7 @@ margin-top: 10px;
   }
   
   .card:hover .card-img-top {
-    transform: scale(1.12);
+    transform: scale(1.06);
   }
   
   .card {
