@@ -40,3 +40,14 @@ flex-wrap: wrap;
 margin-left: 15px;
 margin-top: 10px;
 }
+.card-img-top {
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .card:hover .card-img-top {
+    transform: scale(1.12);
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
